@@ -1,7 +1,7 @@
 # Week2-Networkwalks-intership-footprint-and-Network-scanning-
 🔐 Cybersecurity Lab: Information Gathering and Network Discovery
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project documents my hands-on cybersecurity lab exercises focused on information gathering, reconnaissance, DNS enumeration, web technology fingerprinting, and internal network discovery.
 
@@ -9,7 +9,7 @@ I used Kali Linux reconnaissance tools and Zenmap (Nmap GUI) on Windows to inves
 
 The objective was to understand how cybersecurity professionals gather information, identify exposed technologies, analyze network services, and map network infrastructure during the early stages of a penetration test.
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 * Understand information gathering and reconnaissance techniques.
 * Retrieve domain registration and DNS information.
@@ -21,7 +21,7 @@ The objective was to understand how cybersecurity professionals gather informati
 * Identify IP and MAC addresses.
 * Generate a visual network topology.
 
-🛠️ Tools and Technologies
+# 🛠️ Tools and Technologies
 
 Tool	Purpose
 Kali Linux	Security testing environment
@@ -35,7 +35,7 @@ Zenmap	Graphical network scanning
 Nmap	Network discovery and host scanning
 Windows	Network discovery environment
 
-🔍 Practical Tasks Performed
+# 🔍 Practical Tasks Performed
 
 1. WHOIS Enumeration
 
@@ -79,22 +79,25 @@ Windows	Network discovery environment
 * Examined MAC addresses.
 * Generated a visual network topology.
 
-💻 Commands Practiced
+# 💻 Commands Practiced
 
-# WHOIS lookup
-whois example.com
-# Website technology fingerprinting
-whatweb example.com
-# DNS lookup
-nslookup example.com
-# Inspect HTTP response headers
-curl -I https://example.com
-# Detect Web Application Firewall
-wafw00f https://example.com
-# DNS enumeration
-dnsrecon -d example.com
+* WHOIS: Retrieved domain registration details and name server information.
+  <img width="960" height="600" alt="Screenshot 2026-11-14 134642" src="https://github.com/user-attachments/assets/5034fa83-6905-405b-9e57-c10016baec40" />
 
-Replace example.com with a domain you own or are explicitly authorized to assess.
+* WhatWeb: Identified website technologies, CMS platforms, and server technologies.
+  <img width="960" height="600" alt="Screenshot 2026-11-14 134642" src="https://github.com/user-attachments/assets/4cd302a9-f74b-4057-8053-c1ce61fc4662" />
+
+* Nslookup: Performed DNS lookups to resolve domain names into IP addresses.
+  <img width="960" height="600" alt="Screenshot 2026-11-14 134642" src="https://github.com/user-attachments/assets/ad11990b-54e3-4286-9f11-80e12cfe89c8" />
+
+* cURL: Analyzed HTTP response headers and server information.
+  <img width="960" height="600" alt="Screenshot 2026-11-14 140506" src="https://github.com/user-attachments/assets/f5680fb5-f1ef-4ae3-8e0e-5548c14c6241" />
+
+* Wafw00f: Detected and identified Web Application Firewall technologies.
+  <img width="960" height="600" alt="Screenshot 2026-11-14 141253" src="https://github.com/user-attachments/assets/37151373-7e33-4370-90c2-3db7bc93e5d4" />
+
+* DNSRecon: Enumerated DNS records and examined domain infrastructure.
+<img width="960" height="600" alt="Screenshot 2026-11-14 141756" src="https://github.com/user-attachments/assets/433b0909-c5ba-4321-9b15-f4903e56eee9" />
 
 🧠 Skills Developed
 
@@ -111,28 +114,7 @@ Replace example.com with a domain you own or are explicitly authorized to assess
 * Zenmap and Nmap Usage
 
 
-
-
-
-Suggested folder structure:
-
-cybersecurity-reconnaissance-lab/
-│
-├── README.md
-│
-├── screenshots/
-│   ├── whois-results.png
-│   ├── whatweb-results.png
-│   ├── nslookup-results.png
-│   ├── curl-headers.png
-│   ├── waf-detection.png
-│   ├── dnsrecon-results.png
-│   └── zenmap-network-topology.png
-│
-└── notes/
-    └── lab-findings.md
-
-📚 Key Learning Outcomes
+# 📚 Key Learning Outcomes
 
 Through this practical lab, I gained experience using reconnaissance tools to collect domain information, identify website technologies, inspect HTTP responses, detect WAF technologies, and investigate DNS records.
 
@@ -140,14 +122,10 @@ I also gained practical experience using Zenmap to discover active devices, exam
 
 This project improved my understanding of the information-gathering phase of ethical hacking and penetration testing.
 
-⚖️ Disclaimer
 
-This project was conducted for educational purposes in an authorized cybersecurity learning environment.
-
-All scanning and enumeration activities should only be performed against systems, domains, and networks that you own or have explicit permission to assess.
-
-👩‍💻 Author
+# 👩‍💻 Author
 
 Cybersecurity Student | Ethical Hacking & Penetration Testing Learner
 
 Focus Areas: Cybersecurity, Network Security, Ethical Hacking, Reconnaissance, and Penetration Testing.
+# networkwalks #waqaskari #cybersecurity #handsonproject
