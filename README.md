@@ -37,24 +37,24 @@ Windows	Network discovery environment
 
 # 🔍 Practical Tasks Performed
 
-1. WHOIS Enumeration
+# 🔷WHOIS Enumeration
 
 * Retrieved domain registration information.
 * Identified name servers.
 * Examined domain ownership and registration details.
 
-2. Website Technology Fingerprinting – WhatWeb
+# 🔷Website Technology Fingerprinting – WhatWeb
 
 * Identified website technologies and CMS platforms.
 * Detected WordPress.
 * Examined identifiable plugin versions and server technologies.
 
-3. DNS Lookup – Nslookup
+# 🔷DNS Lookup – Nslookup
 
 * Resolved domain names into IP addresses.
 * Examined DNS query results.
 
-4. HTTP Header Analysis – cURL
+# 🔷HTTP Header Analysis – cURL
 
 * Used curl -I to inspect HTTP response headers.
 * Examined server response information.
@@ -62,16 +62,16 @@ Windows	Network discovery environment
 
 5. WAF Detection – Wafw00f
 
-* Checked whether the target website was protected by a Web Application Firewall.
+# 🔷Checked whether the target website was protected by a Web Application Firewall.
 * Identified ModSecurity as the detected WAF technology.
 
-6. DNS Enumeration – DNSRecon
+# 🔷DNS Enumeration – DNSRecon
 
 * Enumerated available DNS records.
 * Investigated domain DNS configurations.
 * Examined DNS infrastructure.
 
-7. Internal Network Discovery – Zenmap
+ # 🔷Internal Network Discovery – Zenmap
 
 * Installed and used Zenmap on Windows.
 * Scanned an authorized local network.
@@ -81,7 +81,7 @@ Windows	Network discovery environment
 
 # 💻 Commands Practiced
 
-* WHOIS: Retrieved domain registration details and name server information.
+* W🔷HOIS: Retrieved domain registration details and name server information.
   <img width="960" height="600" alt="Screenshot 2026-11-14 134642" src="https://github.com/user-attachments/assets/5034fa83-6905-405b-9e57-c10016baec40" />
 
 * WhatWeb: Identified website technologies, CMS platforms, and server technologies.
@@ -99,7 +99,7 @@ Windows	Network discovery environment
 * DNSRecon: Enumerated DNS records and examined domain infrastructure.
 <img width="960" height="600" alt="Screenshot 2026-11-14 141756" src="https://github.com/user-attachments/assets/433b0909-c5ba-4321-9b15-f4903e56eee9" />
 
-🧠 Skills Developed
+# 🧠 Skills Developed
 
 * Information Gathering (OSINT)
 * Passive and Active Reconnaissance
