@@ -81,22 +81,22 @@ Windows	Network discovery environment
 
 # 💻 Commands Practiced
 
-* W🔷HOIS: Retrieved domain registration details and name server information.
+# 🔷WHOIS: Retrieved domain registration details and name server information.
   <img width="960" height="600" alt="Screenshot 2026-11-14 134642" src="https://github.com/user-attachments/assets/5034fa83-6905-405b-9e57-c10016baec40" />
 
-* WhatWeb: Identified website technologies, CMS platforms, and server technologies.
-  <img width="960" height="600" alt="Screenshot 2026-11-14 134642" src="https://github.com/user-attachments/assets/4cd302a9-f74b-4057-8053-c1ce61fc4662" />
+# 🔷WhatWeb: Identified website technologies, CMS platforms, and server technologies.
+  <img width="960" height="369" alt="Screenshot 2026-11-14 133505" src="https://github.com/user-attachments/assets/f0a2813c-3388-4d70-8ac4-08bb378af254" />
 
-* Nslookup: Performed DNS lookups to resolve domain names into IP addresses.
-  <img width="960" height="600" alt="Screenshot 2026-11-14 134642" src="https://github.com/user-attachments/assets/ad11990b-54e3-4286-9f11-80e12cfe89c8" />
+ # 🔷Nslookup: Performed DNS lookups to resolve domain names into IP addresses.
+  <img width="960" height="268" alt="Screenshot 2026-11-14 133505" src="https://github.com/user-attachments/assets/399c8168-2d1a-49c2-a7ee-625958b15c59" />
 
-* cURL: Analyzed HTTP response headers and server information.
+# 🔷cURL: Analyzed HTTP response headers and server information.
   <img width="960" height="600" alt="Screenshot 2026-11-14 140506" src="https://github.com/user-attachments/assets/f5680fb5-f1ef-4ae3-8e0e-5548c14c6241" />
 
-* Wafw00f: Detected and identified Web Application Firewall technologies.
+# 🔷Wafw00f: Detected and identified Web Application Firewall technologies.
   <img width="960" height="600" alt="Screenshot 2026-11-14 141253" src="https://github.com/user-attachments/assets/37151373-7e33-4370-90c2-3db7bc93e5d4" />
 
-* DNSRecon: Enumerated DNS records and examined domain infrastructure.
+# 🔷DNSRecon: Enumerated DNS records and examined domain infrastructure.
 <img width="960" height="600" alt="Screenshot 2026-11-14 141756" src="https://github.com/user-attachments/assets/433b0909-c5ba-4321-9b15-f4903e56eee9" />
 
 # 🧠 Skills Developed
